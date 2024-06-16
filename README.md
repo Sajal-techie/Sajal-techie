@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning Python Django React Full stack development **Python, Django, React**
 
-- 👨‍💻 All of my projects are available at [https://sajal-techie.github.io/Portfolio/](https://sajal-techie.github.io/Portfolio/)
-
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **Sajalsaju687@gmail.com**
